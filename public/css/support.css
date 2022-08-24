@@ -1,0 +1,172 @@
+
+.notice{
+    font-size: 14px;
+}
+.btn-margin{
+    margin-top: 20px;
+}
+
+.spf-nowrap{
+    background: #c0c0c0;
+    padding: 10px;
+    margin: 10px;
+}
+
+    .message{
+        font-size: 16px;
+    }
+
+    .notice{
+        font-size: 14px;
+    }
+
+    .btn-margin{
+        margin-top: 20px;
+    }
+
+
+.m-box-field m-box-field--style_thin-gray paginginfo-box {
+    text-size-adjust: 100%;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    page-break-inside: avoid;
+    border: 4px solid #8c8c8c;
+    margin-bottom: 1rem;
+    padding-right: 1.875rem;
+    padding-left: 1.875rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-width: 1px;
+    background-color: #f6f6f6;
+    display: block;
+}
+.m-container{
+    text-size-adjust: 100%;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+
+.m-paragraph{
+    text-size-adjust: 100%;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.m-paragraph__body{
+    text-align: right;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+
+.row{
+    background: #f8f8ff; 
+}
+
+.l-container{
+    text-size-adjust: 100%;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    max-width: 1184px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 6rem;
+}
+
+.imui_pager{
+    text-size-adjust: 100%;
+    letter-spacing: 0.06em;
+    font-weight: normal;
+    font-family: "Clarimo UD PE Regular", "UD Shin Go Conde90 R JIS2004", sans-serif;
+    line-height: 1.75;
+    color: #333333;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    padding: 0;
+    list-style-type: none;
+    margin: 30px 15px 0px 0px;
+    text-align: center;
+}
+
+.simple_square_btn7 {
+	display: inline-block;
+	position: relative;
+	width: 160px;
+	padding: 0.5em;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	background: #807774;
+}
+.simple_square_btn7:hover {
+     display: inline-block;
+	 cursor: pointer;
+	 text-decoration: none;
+	 background:#4b4443;
+}
+
+.border-bottom {
+   border-bottom: 40px solid #305767;
+}
+
+.c1{
+    background:#343434;
+}
+.c2{
+    background:#636262;
+}
+.c3{
+    background:#8a8989;
+}
+.c4{
+    background:#d5d3d2;
+}
+    .message{
+        font-size: 16px;
+    }
+
+    .notice{
+        font-size: 14px;
+    }
+
+    .btn-margin{
+        margin-top: 20px;
+    }
+
+    table {
+        max-width: 100%;
+    }
+    table th {
+        white-space: nowrap;
+        width: 100px;
+    }
