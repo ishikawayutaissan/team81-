@@ -7,7 +7,7 @@
  
 
 <div align="center">
-<img src="./LOGIN.png" alt="ログイン画面">
+<img src="./team.png" alt="お問い合わせ画面">
 </div>
 
 <div align="center">
