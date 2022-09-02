@@ -31,5 +31,9 @@ Laravel <br/>
 ## インストール方法について
 
 $ git clone https://github.com/ishikawayutaissan/team81-.git  <br/>
+$ cd team81- <br/>
 $ composer install  <br/>
+.env ファイルの作成<br/>
+データベースの作成<br/>
 $ php artisan migrate<br/>
+$ php artisan serve <br/>
