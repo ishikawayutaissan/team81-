@@ -30,6 +30,6 @@ Laravel <br/>
 
 ## インストール方法について
 
-$ git clone    <br/>
+$ git clone https://github.com/ishikawayutaissan/team81-.git  <br/>
 $ composer install  <br/>
 $ php artisan migrate<br/>
