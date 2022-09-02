@@ -2,8 +2,17 @@
  お問い合わせフォームです。質問したい内容をメールで送ることができます。<br/>
  また管理者画面でお問い合わせの検索、ユーザーの登録、編集を行えます。
  
+## テスト用アカウント
+メールドレス：hostingservice.test@gmail.com <br/>
+パスワード：Test1Test1 <br/>
+
+##　作った理由
+
+
+
 ## デモ
 [webサイトを見る](https://www.you01haya.shop)
+
  
 <div align="center">
 <img src="./team2.png" alt="ホーム画面">
@@ -27,13 +36,3 @@ Laravel <br/>
   
 ## 注意事項
 会員登録者の一覧がありますが、編集、削除をしないで下さい。
-
-## インストール方法について
-
-$ git clone https://github.com/ishikawayutaissan/team81-.git  <br/>
-$ cd team81- <br/>
-$ composer install  <br/>
-.env ファイルの作成<br/>
-データベースの作成<br/>
-$ php artisan migrate<br/>
-$ php artisan serve <br/>
