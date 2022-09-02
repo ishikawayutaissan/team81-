@@ -31,6 +31,5 @@ Laravel <br/>
 ## インストール方法について
 
 $ git clone    <br/>
-$ cd  <br/>
-$ sh setup.sh<br/>
-$ ~do anything~<br/>
+$ composer install  <br/>
+$ php artisan migrate<br/>
