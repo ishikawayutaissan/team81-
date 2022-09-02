@@ -5,15 +5,13 @@
 ## デモ
 [webサイトを見る](https://www.you01haya.shop)
  
+<div align="center">
+<img src="./team2.png" alt="ホーム画面">
+</div>
 
 <div align="center">
 <img src="./team.png" alt="お問い合わせ画面">
 </div>
-
-<div align="center">
-<img src="./twitterclone_Tshirt.png" alt="ホーム画面">
-</div>
-
  
 ## 使用言語
 Laravel <br/>
