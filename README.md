@@ -6,9 +6,6 @@
 メールドレス：hostingservice.test@gmail.com <br/>
 パスワード：Test1Test1 <br/>
 
-##　作った理由
-
-
 
 ## デモ
 [webサイトを見る](https://www.you01haya.shop)
